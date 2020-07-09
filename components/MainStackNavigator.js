@@ -2,7 +2,7 @@ import * as React from 'react'
 import { NavigationContainer } from '@react-navigation/native'
 import { createStackNavigator } from '@react-navigation/stack'
 
-import Home from './HomeContacts'
+import Home from './Home'
 import Confirmation from './Confirmation'
 import Picture from './Picture'
 
