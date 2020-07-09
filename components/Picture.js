@@ -99,8 +99,8 @@ export default class App extends React.Component {
               source={this.state.imageuri ? {uri: this.state.imageuri} : null}
               resizeMode="contain"
               style={{
-                width: 178,
-                height: 150,
+                width: 300,
+                height: 500,
                 marginTop: 40,
                 alignSelf: "center"
               }}
